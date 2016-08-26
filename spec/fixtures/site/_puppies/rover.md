@@ -1,4 +1,7 @@
 ---
 title: Rover
-breed: Golden Retriever
+breed:
+- Golden Retriever
+- Pit Bull
 ---
+
